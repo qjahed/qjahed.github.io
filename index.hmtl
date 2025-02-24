@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<table border="1">
+  <tr>
+    <th>Name</th>
+    <td>Qadeer John Jahed</td>
+  </tr>
+  <tr>
+    <th>Introduction</th>
+    <td>Hello, I am a junior pursing a BS- Information Technology. I currently do contract work as a website developer</td>
+  </tr>
+  <tr>
+    <th>Hobbies</th>
+    <td>Gym, Snowboarding and traveling</td>
+  </tr>
+</table>
+</html>
