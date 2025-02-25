@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html>
+<head>
 <table border="1">
   <tr>
     <th>Name</th>
     <td>Qadeer John Jahed</td>
   </tr>
   <tr>
+</head>
+<body>
     <th>Introduction</th>
     <td>Hello, I am a junior pursing a BS- Information Technology. I currently do contract work as a website developer</td>
   </tr>
@@ -14,4 +17,5 @@
     <td>Gym, Snowboarding and traveling</td>
   </tr>
 </table>
+</body>
 </html>
